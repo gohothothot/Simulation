@@ -1,1 +1,11 @@
-Binaries/, DerivedDataCache/, Intermediate/, Saved/, .vs/, *.sln
+# 典型的 UE 忽略列表
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.suo
+*.pdb
